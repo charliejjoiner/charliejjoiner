@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charliejjoiner
-- 👀 I’m interested in Web Development, React, Gatsby and Java / Javascript.
-- 🌱 I’m currently learning React & Java
+- 👀 I’m interested in Web & Software Development.
+- 🌱 I’m currently learning C++ & Ruby
 - 📫 How to reach me:
 -   Twitter: @charliejoiner_
 -   Discord: Oats#0475
