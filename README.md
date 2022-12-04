@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charliejjoiner
-- 👀 I’m interested in Web & Software Development.
+- 👀 I’m interested in Photography & Mechanical Keyboards
 - 🌱 I’m currently learning the Medusa E-Commerce platform
 - 📫 How to reach me:
 - Twitter: @charliejoiner_
