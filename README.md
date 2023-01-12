@@ -7,7 +7,7 @@ Web Developer & Comp Sys Engineer
 ---------------------------------
 
 *   🌍  I'm based in the United Kingdom.
-*   🧠  I'm learning TypeScript, Flutter and Figma.
+*   🧠  I'm learning TypeScript, Flutter and Tailwind.
 *   🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.twitter.com/charliejoiner_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/charliejoiner_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
