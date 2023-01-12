@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Charlie Joiner
+:face_in_clouds: Charlie Joiner
 ======================================================================================================================================
+
+Currently working towards a Computer Systems Engineering bachelor's degree.
 
 Web Developer & Comp Sys Engineer
 ---------------------------------
 
-Learning to code for 8 Years, Currently at University for Computer systems engineering.
-
-*   🌍  I'm based in the United Kingdom
-*   🧠  I'm learning TypeScript
-*   🤝  I'm open to collaborating on Mostly Anything
+*   🌍  I'm based in the United Kingdom.
+*   🧠  I'm learning TypeScript, Flutter and Figma.
+*   🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.twitter.com/charliejoiner_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/charliejoiner_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitch.tv/OatssUK" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/OatssUK?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
