@@ -6,9 +6,11 @@ Currently working towards a Computer Systems Engineering bachelor's degree.
 Web Developer & Comp Sys Engineer
 ---------------------------------
 
-*   🌍  I'm based in the United Kingdom.
-*   🧠  I'm learning TypeScript, Flutter and Tailwind.
-*   🤝  I'm open to collaborating on interesting projects.
+*   🌍  I'm based in Kent, United Kingdom.
+*   🖥️  See my portfolio at [charliejoiner.dev](http://charliejoiner.dev)
+*   ✉️  You can contact me at [charlie.joiner.29@gmail.com](mailto:charlie.joiner.29@gmail.com)
+*   🧠  I'm learning React, Tailwind and C
+*   🤝  I'm open to collaborating on interesting JavaScript projects
 
 <a href="https://www.twitter.com/charliejoiner_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/charliejoiner_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitch.tv/OatssUK" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/OatssUK?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
