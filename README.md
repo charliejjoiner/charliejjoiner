@@ -1,4 +1,4 @@
-:face_in_clouds: Charlie Joiner
+:man_technologist: Charlie Joiner
 ======================================================================================================================================
 
 Currently working towards a Computer Systems Engineering bachelor's degree.
