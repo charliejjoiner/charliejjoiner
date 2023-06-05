@@ -8,7 +8,7 @@ Computer Systems Engineer Student
 
 *   🌍  I'm based in Kent, United Kingdom
 *   🖥️  See my website at [charliejoiner.dev](http://charliejoiner.dev)
-*   ✉️  You can contact me on Discord @Oats7615
+*   ✉️  You can contact me on Discord @Oats#7615
 *   🧠  I'm learning Typescript, Python3
 *   🤝  I'm open to collaborating on interesting projects
 
