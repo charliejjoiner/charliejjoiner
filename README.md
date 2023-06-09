@@ -1,7 +1,7 @@
 :man_technologist: Charlie Joiner
 ======================================================================================================================================
 
-Currently very interested in Automating pokemon games
+Currently very interested in automation
 
 Computer Systems Engineer Student
 ---------------------------------
