@@ -1,9 +1,7 @@
 :man_technologist: Charlie Joiner
 ======================================================================================================================================
 
-Currently very interested in automation
-
-Computer Systems Engineer Student
+Computer Systems Engineer Graduate
 ---------------------------------
 
 *   🌍  I'm based in Kent, United Kingdom
